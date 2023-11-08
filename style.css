@@ -1,0 +1,79 @@
+#h1 { color: rgb(200,5,0) ;
+
+font-family: "Times New Roman", Times, serif;
+
+font-size: 40px;
+
+text-align: center;
+
+
+
+}
+
+
+#h2 { color: rgb(0,0,0) ;
+
+
+font-size:  40px ;
+font-family: "Times New Roman", Times, Serif;
+
+}
+
+
+#h3 { color: rgb(0,0,0) ;
+
+
+font-size:  30px ;
+font-family: "Times New Roman", Times, Serif;
+text-align: center;
+
+}
+
+
+
+#a-complex1 { color: rgb(192,0,0) ; 
+
+text-decoration: none;
+}
+
+#a-complex2 { color: rgb(0,0,200) ; 
+text-decoration: none; 
+
+}
+
+
+
+
+#a-default { color: rgb(0,0,200) ; 
+
+
+
+}
+
+
+#body  { color : rgb(0,0 ,0) ; 
+
+
+
+ }
+ 
+
+#img1 { display: block;
+	margin-left: auto;
+	margin-right: auto;
+  	width: 50%;
+}
+
+#center {
+  text-align: center;
+  border: 3px 
+rgb( 0,0,100) ;
+
+
+}
+
+
+.center {
+  text-align: center;
+  border: 3px solid white;
+}
